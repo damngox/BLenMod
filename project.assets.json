@@ -1,0 +1,57 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v3.5": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v3.5": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Розалия\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Розалия\\Desktop\\VLVL\\BlockEnhancementMod.csproj",
+      "projectName": "BlockEnhancementMod",
+      "projectPath": "C:\\Users\\Розалия\\Desktop\\VLVL\\BlockEnhancementMod.csproj",
+      "packagesPath": "C:\\Users\\Розалия\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Розалия\\Desktop\\VLVL\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Розалия\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net35"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net35": {
+          "targetAlias": "net35",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net35": {
+        "targetAlias": "net35",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
